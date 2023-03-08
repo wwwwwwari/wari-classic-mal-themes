@@ -378,13 +378,13 @@
 
     text-align: center;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -635,13 +635,13 @@ a {
 
     text-decoration: none;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -730,13 +730,13 @@ a {
 
     opacity: 1;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -899,13 +899,13 @@ a {
 
     opacity: 0;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -956,13 +956,13 @@ a {
 
     opacity: 0;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -1352,11 +1352,11 @@ a {
 
     opacity: 0;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
     transition-property: unse;
 
@@ -1770,13 +1770,13 @@ a {
 
     white-space: nowrap;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 

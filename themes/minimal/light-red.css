@@ -194,9 +194,9 @@
 
 #advanced-options .sort-widget input[type=radio]:checked + label {
 
-    background-color: #994d4d;
+    background-color: #c3414d;
 
-    border: #994d4d 1px solid;
+    border: #c3414d 1px solid;
 
     color: #FFFFFF;
 
@@ -360,7 +360,7 @@
 
 #advanced-options .btn-clear {
 
-    background-color: #994d4d;
+    background-color: #c3414d;
 
     display: inline-block;
 
@@ -378,13 +378,13 @@
 
     text-align: center;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -409,7 +409,7 @@
 
 #advanced-options .btn-clear:hover {
 
-  background-color: rgba(64, 101, 186, 0.8);
+  background-color: #ba4040;
 
 }
 
@@ -479,7 +479,6 @@ a {
 #recaptcha-terms a {
 	font-weight: bold;
 }
-
 
 /*
 
@@ -606,7 +605,7 @@ a {
 
     display: none;
 
-    border: #994d4d 1px solid;
+    border: #c3414d 1px solid;
 
     -moz-box-shadow: rgba(0, 0, 0, 0.4) 0 0 10px;
 
@@ -627,7 +626,7 @@ a {
 
     height: 30px;
 
-    color: #994d4d;
+    color: #c3414d;
 
     font-size: 14px;
 
@@ -635,13 +634,13 @@ a {
 
     text-decoration: none;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -673,7 +672,7 @@ a {
 
     position: absolute;
 
-    fill: #994d4d;
+    fill: #c3414d;
 
     left: 12px;
 
@@ -730,13 +729,13 @@ a {
 
     opacity: 1;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -899,13 +898,13 @@ a {
 
     opacity: 0;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -928,7 +927,7 @@ a {
 
 .list-menu-float .icon-menu:not(.profile):hover {
 
-    background-color: #994d4d;
+    background-color: #c3414d;
 
     width: 145px;
 
@@ -956,13 +955,13 @@ a {
 
     opacity: 0;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -1012,7 +1011,7 @@ a {
 
     position: absolute;
 
-    background-color: #994d4d;
+    background-color: #c3414d;
 
     display: block;
 
@@ -1340,7 +1339,7 @@ a {
 
     left: 0px;
 
-    background-color: #994d4d;
+    background-color: #c3414d;
 
     display: block;
 
@@ -1352,11 +1351,11 @@ a {
 
     opacity: 0;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
     transition-property: unse;
 
@@ -1502,7 +1501,7 @@ a {
 
     display: table;
 
-    background-color: #994d4d;
+    background-color: #c3414d;
 
     width: 1024px;
 
@@ -1551,7 +1550,7 @@ a {
 
     display: none;
 
-    background-color: #994d4d;
+    background-color: #c3414d;
 
     width: 1024px;
 
@@ -1770,13 +1769,13 @@ a {
 
     white-space: nowrap;
 
-    -moz-transition-property: all;
+    -moz-transition-property: none;
 
-    -o-transition-property: all;
+    -o-transition-property: none;
 
-    -webkit-transition-property: all;
+    -webkit-transition-property: none;
 
-    transition-property: all;
+    transition-property: none;
 
     -moz-transition-duration: 0.3s;
 
@@ -1799,7 +1798,7 @@ a {
 
 .list-table .list-table-header .header-title .link.sort:hover {
 
-    color: #2556c6
+    color: #c62525
 
 }
 
