@@ -360,7 +360,7 @@
 
 #advanced-options .btn-clear {
 
-    background-color: rgba(64, 101, 186, 1);
+    background-color: #6A4F6C;
 
     display: inline-block;
 
@@ -464,11 +464,11 @@ a {
 }
 
 
-#copyright {
+#copyright, #recaptcha-terms, #recaptcha-terms a {
 
     font-size: 12px;
 
-    color: #9caed9;
+    color: #000000;
 
     padding-top: 3px;
 
@@ -476,6 +476,9 @@ a {
 
 }
 
+#recaptcha-terms a {
+	font-weight: bold;
+}
 
 
 /*
@@ -603,7 +606,7 @@ a {
 
     display: none;
 
-    border: #2E51A2 1px solid;
+    border: #6A4F6C 1px solid;
 
     -moz-box-shadow: rgba(0, 0, 0, 0.4) 0 0 10px;
 
@@ -624,7 +627,7 @@ a {
 
     height: 30px;
 
-    color: #2E51A2;
+    color: #6A4F6C;
 
     font-size: 14px;
 
@@ -661,7 +664,7 @@ a {
 
 .header .header-menu .list-menu .icon-menu:hover {
 
-    background-color: #e1e7f5
+    background-color: #e1d5f5
 
 }
 
@@ -670,7 +673,7 @@ a {
 
     position: absolute;
 
-    fill: #2E51A2;
+    fill: #6A4F6C;
 
     left: 12px;
 
@@ -2022,7 +2025,7 @@ a {
 
 .list-table .list-table-data .data.status.dropped {
 
-    background-color: #a12f31
+    background-color: #000000
 
 }
 
@@ -2059,4 +2062,12 @@ a {
 
 a:hover {
   color: #622C91; 
+}
+
+.icon-watch2 .malicon.malicon-movie-episode, .icon-watch2 .malicon.malicon-movie-pv, .icon-watch2 .malicon.malicon-streaming, .icon-watch-pv2 .malicon.malicon-movie-episode, .icon-watch-pv2 .malicon.malicon-movie-pv, .icon-watch-pv2 .malicon.malicon-streaming {
+  color: #622C91 !important;
+}
+
+.content-status{
+	color: #888888 !important;
 }
